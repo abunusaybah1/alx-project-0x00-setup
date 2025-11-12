@@ -34,6 +34,10 @@ const Landing: React.FC = () => {
 						title="Rounded Button"
 					/>
 					<Button
+						styles="p-1 bg-gray-300 text-black rounded-lg"
+						title="Rounded Button"
+					/>
+					<Button
 						styles="p-1 bg-gray-300 text-black rounded-full"
 						title="Rounded Button"
 					/>
